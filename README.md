@@ -1,7 +1,7 @@
 # IT-project-MindfulCreator-_showcase
 This is a showcase of projects I have participated in as a **Project Manager (PM) and Business Analyst (BA)**.
 
-**ProjectName**: Inflowence
+**ProjectName**: Inflowence: 
 A website for young content creators (ages 18-30) offering gamified learning, wellbeing support, data insights, and practical tools. It helps them build sustainable, ethical, and socially responsible online identities while protecting themselves and their audiences, fostering a healthier digital culture.
 
 **Role**: Project Manager (PM) and Business Analyst (BA)
